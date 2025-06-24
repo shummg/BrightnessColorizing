@@ -4,3 +4,8 @@
 2. `exedit.auf`と同じディレクトリ内に、`script`フォルダを作成する
 3. スクリプトファイルを `./script/明度着色.anm` もしくは `./script/<DirectoryName>/明度着色.anm` に保存する
 4. DLLファイルをスクリプトと同じ場所に保存する
+
+## ライセンス
+2025年6月25日以降、ライセンスを以下の通りに変更します。
+- **～2025/06/24**: GNU Lesser General Public License (LGPL) 3.0
+- **2025/06/25**: MIT License
